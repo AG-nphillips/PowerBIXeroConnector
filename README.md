@@ -18,3 +18,6 @@ A video detailing the whole process from start to finish will follow.
 
 If I have saved you lots of time and stress, please consider buying me a coffee :) 
 (https://www.buymeacoffee.com/nickphillips)
+
+
+p.s. this is my first attempt at making a Github repo so apologies for any setup issues.
