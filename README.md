@@ -1,6 +1,6 @@
 # PowerBIXeroConnector
 
-This is the code for a simple PowerBI custom connector to the Xero API, using the Power Query SDK within VS Code.
+This is the code for a simple PowerBI custom connector to the Xero API, using the Power Query SDK within VS Code and a PKCE authentication flow.
 
 You should be able to create a new extension project, copy in the code to your .pq file (making any adjustments to the connector name in the code), compile and run. Don't forget to overwrite the Client ID with your code from the Xero Developer Hub. 
 
